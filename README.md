@@ -3,7 +3,6 @@
 ## Description
 Analysis to rank top gas spenders an detect nonce gaps on a 7-day dataset (Nov 2 - Nov 8, 2026 PHT). This analysis has two parts. The first part shows who drives the network each day. Knowing the big movers is important because it helps spot possible spikes in activity, like when a big player, exchange, or bot suddenly dominates. The second part shows where transactions (nonces) went missing. It's about catching a broken payout or a stuck system early, fixing the missing number, and keeping the transactions flowing.
 
-
 ## 1. Parts / Statements
 
 **1. Daily Top Gas Spender**
